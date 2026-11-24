@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+dist/
+.id
+first_launch_sent.txt
+first_launch.log
+actions/telegram_bot/device.json

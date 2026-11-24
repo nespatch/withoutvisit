@@ -1,0 +1,4 @@
+pyperclip
+pystray
+Pillow
+certifi
